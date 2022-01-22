@@ -47,7 +47,6 @@ export const SlateEditor: React.FC<Props> = ({
         className="textarea"
         style={{
           height: '100%',
-          maxHeight: '100px',
           width: '80%',
           overflow: 'scroll',
           padding: '5px 10px ',
