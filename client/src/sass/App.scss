@@ -113,6 +113,7 @@
       padding: 5px;
       border-radius: 4px;
       color: $messageText;
+      white-space: pre-wrap;
     }
     &.you {
       align-items: flex-end;
