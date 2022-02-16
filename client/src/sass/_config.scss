@@ -12,6 +12,8 @@ $accent-color-light: #786a9d;
   padding: 0;
   margin: 0;
   font-family: 'Poppins', sans-serif;
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
 }
 *::-webkit-scrollbar {
   display: none;
